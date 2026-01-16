@@ -12,7 +12,9 @@
         "project": ["libs/ng2-dragula/tsconfig.*?.json"]
       },
       "rules": {
-        "@angular-eslint/prefer-standalone": "off"
+        "@angular-eslint/prefer-standalone": "off",
+        "@angular-eslint/prefer-inject": "off",
+        "@typescript-eslint/no-explicit-any": "warn"
       }
     },
     {

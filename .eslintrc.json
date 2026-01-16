@@ -30,7 +30,8 @@
         "@typescript-eslint/semi": ["error"],
         "@typescript-eslint/ban-ts-comment": "off",
         "@typescript-eslint/no-extra-semi": "error",
-        "no-extra-semi": "off"
+        "no-extra-semi": "off",
+        "@angular-eslint/prefer-inject": "off"
       }
     },
     {
