@@ -36,10 +36,14 @@ Try out the [demo](http://valor-software.github.io/ng2-dragula/index.html)!
 
 Latest version available for each version of Angular
 
-| ng2-dragula | Angular |
-| ---------- |---------|
-| 2.1.1      | <= 9.x  |
-| current    | 16.x.x  |
+| ng2-dragula | Angular   |
+| ----------- | --------- |
+| 2.1.1       | <= 9.x    |
+| 3.x         | 14.x      |
+| 4.0.0       | 15.x      |
+| 5.0.0       | 16.x      |
+| 6.0.0       | 19.x      |
+| 7.0.0       | 20.x      |
 
 # Install
 
