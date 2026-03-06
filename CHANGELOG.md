@@ -1,3 +1,15 @@
+# [7.0.0](https://github.com/valor-software/ng2-dragula/compare/v6.0.0...v7.0.0) (2026-03-06)
+
+### Features
+
+* **dragula:** upgraded to angular 20 ([#1119](https://github.com/valor-software/ng2-dragula/issues/1119)) ([fae8b00](https://github.com/valor-software/ng2-dragula/commit/fae8b00c8c22700d9ca98c8c291e7fe313e0aae0))
+
+
+### Bug Fixes
+
+* **deps:** update Nx, ng-packagr, jest-preset-angular, and eslint-config-prettier for Angular 20 compatibility ([#1119](https://github.com/valor-software/ng2-dragula/issues/1119)) ([47cbe0a](https://github.com/valor-software/ng2-dragula/commit/47cbe0aaaa5ef6aeeaaae078148704037ab314a3))
+
+
 # [6.0.0](https://github.com/valor-software/ng2-dragula/compare/v5.0.2...v6.0.0) (2025-08-05)
 * **dragula:** updated angular 19 ([#1113](https://github.com/valor-software/ng2-dragula/issues/1113)) ([9544031](https://github.com/valor-software/ng2-dragula/commit/9544031c37a685f552ad44b3c277053045914147))
 
